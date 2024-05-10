@@ -1,26 +1,26 @@
 #0x07-networking_basics
 ---
 
-__OSI Model__
+##OSI Model
 ---
 . What it is
 . How many layers it has
 . How it is organized
-__What is a LAN__
+##What is a LAN
 . Typical usage
 . Typical geographical size
-__What is a WAN__
+##What is a WAN
 ---
-, Typical usage
+. Typical usage
 . Typical geographical size
-__What is the Internet__
+##What is the Internet
 ---
 . What is an IP address
 . What are the 2 types of IP address
 . What is localhost
 . What is a subnet
 . Why IPv6 was created
-__TCP/UDP__
+##TCP/UDP
 ---
 . What are the 2 mainly used data transfer protocols for IP (transfer level on the OSI schema)
 . What is the main difference between TCP and UDP
