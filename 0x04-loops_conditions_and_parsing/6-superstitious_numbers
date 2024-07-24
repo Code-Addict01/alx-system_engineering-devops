@@ -14,5 +14,5 @@ case $iteration in
 "9") echo "bad luck from Japan";;
 "17") echo "bad luck form Italy";;
 esac
-((iteration++))
+(( iteration++ ))
 done
