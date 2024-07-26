@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# debug error running apache on container
+
+service apache2 start
