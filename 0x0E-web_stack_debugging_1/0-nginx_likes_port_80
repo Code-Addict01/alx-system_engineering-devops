@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # Remove /sites-enabled/default file in nginx
-rm /etc/nginx/sites-enabled/default
+cd /etc/nginx/sites-enabled/ || exit
+rm default
+
 
 # Create a symbolic link to default file in sites-available
 ln -s /etc/nginx/sites-available/default default
