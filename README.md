@@ -1,6 +1,32 @@
 # ALX-SYSTEM_ENGRINEERING_DEVOPS
-
 `DevOps` `Shell` `Bash` `Scripting`
-
-1. 0x00. Shell,navigation
-2. 0x04. Loops, conditions and parsing
+1. [0x00-shell_basics](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x00-shell_basics)
+2. [0x01-shell_permissions](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
+3. [0x02-shell_redirections](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
+4. [0x03-shell_variables_expansions](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
+5. [0x04-loops_conditions_and_parsing](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
+6. [0x05-process_and_signals](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x05-process_and_signals)
+7. [0x06-regular_expressions](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x06-regualar_expressions)
+8. [0x07-networking_basics](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x07-networking_basics)
+9. [0x08-networking_basics_2](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x08-networing_basics_2)
+10. [0x09-web_infrastructure_design](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x09-web_infrastructure_design)
+11. [0x0A-configuration_management](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x0A-configuration_management)
+12. [0x0B-ssh](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x0B-ssh)
+13. [0x0C-web_server](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x0C-web_server)
+14. [0x0D-web_stack_debugging_0](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x0D-web_stack_debugging_0)
+15. [0x0E-web_stack_debugging_1](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x0E-web_stack_debugging_1)
+16. [0x1F-load_balancer](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x1F-load_balancer)
+17. [0x10-https_ssl](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x10-https_ssl)
+18. [0x12-web_stack_debugging_2](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x12-web_stack_debugging_2)
+19. [0x13-firewall](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x13-firewall)
+20. [0x14-mysql](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x14-mysql)
+21. [0x15-api](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x15-api)
+22. [0x16-api_advanced](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x16-api_advanced)
+23. [0x17-web_stack_debugging_3](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x17-web_stack_debugging_3)
+24. [0x18-webstack_monitoring](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x18-webstack_monitoring)
+25. [0x19-postmoterm](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/0x19-postmoterm)
+26. [](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/)
+27. [](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/)
+28. [](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/)
+29. [](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/)
+30. [](https://github.com/Code-Addict01/alx-system_engineering-devops/tree/master/)
