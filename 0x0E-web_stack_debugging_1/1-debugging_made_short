@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-sudo apt-get update
-sudo apt-get install -y nginx
-service nginx start
-service nginx stop
+# Making my fix shorter
+sed -i 's/8080/80/g' /etc/nginx/sites_enabled/default
+service nginx restart
+pkill -o nginx
