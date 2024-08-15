@@ -1,14 +1,9 @@
 #!/usr/bin/env bash
-# Solving the problem, I first check is nginx in present in my computer
-# use nginx -v for that
-nginx -v
-# If it returns anything else other than nginx version, it isn't installed
-# Update package list and install nginx
-sudo apt-get update
-sudo apt-get install -y nginx
+# Remove /sites-enabled/default file in nginx
+rm /etc/nginx/sites-enabled/default
 
-# After installation, if curl 0:80 still doesn't work, check if nginx is running
-service nginx status
+# Create a symbolic link to default file in sites-available
+ln -s /etc/nginx/sites-available/default default
 
-# If not running, start it
-service nginx start
+# Restart nginx
+service nginx restart
